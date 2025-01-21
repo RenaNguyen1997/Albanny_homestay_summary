@@ -3,6 +3,8 @@
 
 This project is descriptive analytics, summarizing key insights of homestay business in Albany and identifying core elements contributing to suitable and economic property selection. The statistics will showcase my foundation in utilizing Excel, particularly VBA, to perform data wrangling and data mining skills. The final result is demonstrated as an interactive dashboard created via Tableau. 
 
+The project's whole purpose is to provide the most suitable homestays for the viewer in terms of prices and value.
+
 ## Key skill demonstrated
 * **Data cleaning and Data mining**: Extracted data from the original source, combining all statistics into one coherent file, handling missing data and outliers to create a suitable dataset for analysis and visualisation.
 * **Exploratory Data Analysis (EDA)**: Identifying trends, patterns, and relationships in data.
@@ -36,21 +38,25 @@ To run this project, you will need:
 2.3. Reviews:
 
 *To obtain the ready data*
+
 The finalised dataset can be found under the name 'Dataset_official.xlsm' under the Dataset folder. 
 
 *To visualise data*
 1. Download the Tableau file under the name "Albanny_dasboard.tmb"
 2. Merging data: Before visualizing, merging data between different files is required. Instead of manually doing it from Excel, Tableau can assist with the task ideally by joining the data based on similar columns between each file:
-
-
+<p align="center">
+<img src="https://github.com/RenaNguyen1997/image/blob/main/Albanny/Tableau_merge.PNG" width=70% height=50%>
+</p>
 
 ## Key analysis and visualisation
 
+
+
 ## Insights and findings
 * Insights 1: By room category
-- Staying in a private room will cost much less than renting the whole unit. 
-- For private rooms, The low season is between April - and August, November and December.
-- For the entire unit: The low season is from December to Jun
+  Staying in a private room will cost much less than renting the whole unit. 
+  For private rooms, The low season is between April - and August, November and December.
+  For the entire unit: The low season is from December to Jun
 
 * Insight 2: By number and type of bathrooms
 Properties providing private bathrooms will generally have higher prices than shared bathrooms. Furthermore, the more bathrooms there are, the higher the price.
