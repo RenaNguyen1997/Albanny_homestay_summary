@@ -39,18 +39,18 @@ To run this project, you will need:
 
 *To obtain the ready data*
 
-The finalised dataset can be found under the name 'Dataset_official.xlsm' under the Dataset folder. 
+The finalized dataset can be found under the name 'Dataset_official.xlsm' under the Dataset folder. 
 
-*To visualise data*
+*To visualize data*
 1. Download the Tableau file under the name "Albanny_dasboard.tmb"
 2. Merging data: Before visualizing, merging data between different files is required. Instead of manually doing it from Excel, Tableau can assist with the task ideally by joining the data based on similar columns between each file:
 <p align="center">
 <img src="https://github.com/RenaNguyen1997/image/blob/main/Albanny/Tableau_merge.PNG" width=70% height=50%>
 </p>
 
-## Key analysis and visualisation
-
-
+## Key analysis and visualisation in Dashboard
+* **Price summary:** Descriptive analytics on price by unit category and different room features
+* **Lists:** A list of homestays with filter options for manually finding the desired homestay 
 
 ## Insights and findings
 * Insights 1: By room category
