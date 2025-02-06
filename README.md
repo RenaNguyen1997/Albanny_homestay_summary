@@ -37,7 +37,7 @@ To run this project, you will need:
 2.2. Calendars:
 2.3. Reviews:
 
-*To obtain the ready data*
+*To obtain the ready data*\
 The finalized dataset can be found under the name 'Dataset_official.xlsm' under the Dataset folder. 
 
 *To visualize data*
